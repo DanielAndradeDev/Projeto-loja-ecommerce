@@ -1,0 +1,9 @@
+nosso Framework Bootstrap e o bootstrap esta relacionado a o css eo javascrip quando utilizamos o bootstrap estamos os dois de uma vez ja pronto jAVASCRIPT e CSS vamos trabalhar nosso backend
+
+para fazer conexao pro banco de dados temos o nodejs q é um framework q tudo que vc coloca no javacript pra fazer conexao com banco de dados
+temos o react o angular e vue tudo isso sao frameswork q trabalha com frontend apartir dela conseguimos fazer conexao com bando de dados
+
+o que é uma API ? - API é um serviço que tem todas a ferramentas que faz conexao com banco de dados 
+nodeJS - é utilizado para fazer conexao com banco de dados
+java - é o unico que n precisa de Nodejs pra fazer conexao com bando de dados
+
